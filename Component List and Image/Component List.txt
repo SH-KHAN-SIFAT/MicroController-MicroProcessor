@@ -1,0 +1,18 @@
+
+
+
+
+
+02.  1 Channel 5V Relay Board Module = 90/-
+03.  5v DC Mini Water Pump Micro Submersible Motor Pump 2.5-6V 120L/H 						= 130/-  
+     tube/pipe									 						= 
+04.  YL-69 Soil Hygrometer Humidity & Soil Moisture Detection Sensor 						= 85/-
+05.  Jumper Wire 40 Pcs Set 													= 95/-
+06.  Mini Servo SG90 														= 138/-
+07.  14500 Rechargeable Lithium Battery 1300mah 3.7v 									= 560/- ( 70 * 8 ) 
+08.  DHT11 Temperature and Relative Humidity Sensor Module 								= 149/-
+09.  Standard LCD 16x2 Display 												= 199/-
+10.  MB102 Breadboard (Large) 												= 130/-
+11.  I2C LCD Adapter Module 													= 99/-
+12.  Smart Steering Robot Car Chassis 											= 2500/-    
+13.  ESP8266 CH340 NodeMCU Wifi Module Lua V3									      = 345/-
